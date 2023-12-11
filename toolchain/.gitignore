@@ -1,0 +1,5 @@
+# ignore toolchain build artifacts
+bin
+downloads
+include
+readme.txt
